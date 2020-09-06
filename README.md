@@ -3,6 +3,8 @@ HANDWRITTEN DIGIT RECOGNITION USING ML IN PYTHON WITH THE HELP OF RANDOM FOREST 
 <br>
 <h2>Download the dataset and jupyter notebook to run this project in you local system</h2>
 <br>
+<h2>The model predicts correct output for 96.17% of the input cases</h2>
+<br>
 <h2>SAMPLE OUTPUT</h2>
 <img src="https://raw.githubusercontent.com/vijayjoshi16/HANDWRITTEN-DIGIT-RECOGNITION/master/Images/sample1.png">
 <br>
